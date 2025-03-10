@@ -66,7 +66,7 @@
   - Methods: add_transaction(), validate_transaction(), get_transactions()
 ```
 
-### Wallet Module
+### Wallet Module - Toby
 ```
 - Wallet Class
   - Manages key pairs
